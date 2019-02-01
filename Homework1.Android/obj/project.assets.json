@@ -863,11 +863,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Eddy/Desktop/cs 481/Homework1/Homework1.Android/Homework1.Android.csproj",
+      "projectUniqueName": "/Users/Eddy/Desktop/Cs481-Homework-1/Homework1.Android/Homework1.Android.csproj",
       "projectName": "Homework1.Android",
-      "projectPath": "/Users/Eddy/Desktop/cs 481/Homework1/Homework1.Android/Homework1.Android.csproj",
+      "projectPath": "/Users/Eddy/Desktop/Cs481-Homework-1/Homework1.Android/Homework1.Android.csproj",
       "packagesPath": "/Users/Eddy/.nuget/packages/",
-      "outputPath": "/Users/Eddy/Desktop/cs 481/Homework1/Homework1.Android/obj",
+      "outputPath": "/Users/Eddy/Desktop/Cs481-Homework-1/Homework1.Android/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/Eddy/.config/NuGet/NuGet.Config"
@@ -881,8 +881,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "/Users/Eddy/Desktop/cs 481/Homework1/Homework1/Homework1.csproj": {
-              "projectPath": "/Users/Eddy/Desktop/cs 481/Homework1/Homework1/Homework1.csproj"
+            "/Users/Eddy/Desktop/Cs481-Homework-1/Homework1/Homework1.csproj": {
+              "projectPath": "/Users/Eddy/Desktop/Cs481-Homework-1/Homework1/Homework1.csproj"
             }
           }
         }

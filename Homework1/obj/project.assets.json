@@ -390,11 +390,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Eddy/Desktop/cs 481/Homework1/Homework1/Homework1.csproj",
+      "projectUniqueName": "/Users/Eddy/Desktop/Cs481-Homework-1/Homework1/Homework1.csproj",
       "projectName": "Homework1",
-      "projectPath": "/Users/Eddy/Desktop/cs 481/Homework1/Homework1/Homework1.csproj",
+      "projectPath": "/Users/Eddy/Desktop/Cs481-Homework-1/Homework1/Homework1.csproj",
       "packagesPath": "/Users/Eddy/.nuget/packages/",
-      "outputPath": "/Users/Eddy/Desktop/cs 481/Homework1/Homework1/obj",
+      "outputPath": "/Users/Eddy/Desktop/Cs481-Homework-1/Homework1/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
