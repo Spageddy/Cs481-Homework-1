@@ -1,0 +1,11 @@
+/Users/Eddy/Desktop/cs 481/Homework1/Homework1/bin/Debug/netstandard2.0/Homework1.deps.json
+/Users/Eddy/Desktop/cs 481/Homework1/Homework1/bin/Debug/netstandard2.0/Homework1.dll
+/Users/Eddy/Desktop/cs 481/Homework1/Homework1/bin/Debug/netstandard2.0/Homework1.pdb
+/Users/Eddy/Desktop/cs 481/Homework1/Homework1/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/Eddy/Desktop/cs 481/Homework1/Homework1/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/Eddy/Desktop/cs 481/Homework1/Homework1/obj/Debug/netstandard2.0/Homework1.csproj.CoreCompileInputs.cache
+/Users/Eddy/Desktop/cs 481/Homework1/Homework1/obj/Debug/netstandard2.0/Homework1.AssemblyInfoInputs.cache
+/Users/Eddy/Desktop/cs 481/Homework1/Homework1/obj/Debug/netstandard2.0/Homework1.AssemblyInfo.cs
+/Users/Eddy/Desktop/cs 481/Homework1/Homework1/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/Eddy/Desktop/cs 481/Homework1/Homework1/obj/Debug/netstandard2.0/Homework1.dll
+/Users/Eddy/Desktop/cs 481/Homework1/Homework1/obj/Debug/netstandard2.0/Homework1.pdb

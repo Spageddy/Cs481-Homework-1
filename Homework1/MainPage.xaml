@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:Homework1"
+    xmlns:forms="clr-namespace:Lottie.Forms;assembly=Lottie.Forms"
+    x:Class="Homework1.MainPage">
+  <Grid>
+     <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+       </Grid.ColumnDefinitions>
+    <forms:AnimationView 
+    x:Name="animationView" 
+    Grid.Row="0"
+    Grid.Column="0"
+    Animation="bk.json" 
+    Loop="true" 
+    AutoPlay="true"
+    VerticalOptions="FillAndExpand" 
+    HorizontalOptions="FillAndExpand"
+    Scale="3"    
+        />
+        <StackLayout VerticalOptions="CenterAndExpand" Grid.Row="0" Grid.Column="0">
+            <Label Text="Eduardo Martinez" HorizontalOptions="CenterAndExpand" TextColor="White"/>
+            <Label Text="Computer Information Systems" HorizontalOptions="CenterAndExpand" TextColor="White"/>
+            <Label Text="May 2019" HorizontalOptions="CenterAndExpand" TextColor="White"/>
+        </StackLayout>
+  </Grid>
+</ContentPage>
