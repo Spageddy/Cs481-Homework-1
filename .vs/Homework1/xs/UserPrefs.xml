@@ -1,0 +1,10 @@
+﻿<Properties StartupConfiguration="{633CCF9D-C244-4385-B4D6-FD538B6502E1}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Homework1.Android PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+</Properties>
