@@ -4,11 +4,11 @@
 
 Android:
 
-<img src="https://github.com/Spageddy/Cs481-Homework-1/blob/master/Images/Android.gif?raw=true" width="200" height="375">
+<img src="https://github.com/Spageddy/Cs481-Homework-1/blob/master/Images/Android.gif?raw=true" width="300" height="500">
 
 IOS:
 
-<img src="https://github.com/Spageddy/Cs481-Homework-1/blob/master/Images/ios.png" width="200" height="375">
+<img src="https://github.com/Spageddy/Cs481-Homework-1/blob/master/Images/ios.png" width="300" height="500">
 
 
 If app doesnt work try to:
