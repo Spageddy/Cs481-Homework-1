@@ -8,7 +8,7 @@ Android:
 
 IOS:
 
-<img src="https://github.com/Spageddy/Cs481-Homework-1/blob/master/Images/ios.png" width="300" height="500">
+<img src="https://github.com/Spageddy/Cs481-Homework-1/blob/master/Images/ios.png" width="375" height="812">
 
 
 If app doesnt work try to:
